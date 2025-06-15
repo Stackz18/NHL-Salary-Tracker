@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import { Card, CardContent } from "./components/Card";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/Tabs";
-import { Progress } from "./components/Progress";
-import { Input } from "./components/Input";
+import { Card, CardContent } from "./components/card.jsx";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/tabs.jsx";
+import { Progress } from "./components/progress.jsx";
+import { Input } from "./components/input.jsx";
 import { Search } from "lucide-react";
 
 const formatCurrency = (amount) =>
