@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Auston Matthews",
+    "team": "Toronto Maple Leafs",
+    "capHit": 11640000,
+    "position": "C",
+    "contractYears": 4
+  },
+  {
+    "name": "Carey Price",
+    "team": "Montreal Canadiens",
+    "capHit": 10500000,
+    "position": "G",
+    "contractYears": 2
+  },
+  {
+    "name": "Connor McDavid",
+    "team": "Edmonton Oilers",
+    "capHit": 13600000,
+    "position": "C",
+    "contractYears": 3
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "team": "Colorado Avalanche",
+    "capHit": 12750000,
+    "position": "C",
+    "contractYears": 4
+  },
+  {
+    "name": "Patrick Kane",
+    "team": "Chicago Blackhawks",
+    "capHit": 10250000,
+    "position": "RW",
+    "contractYears": 2
+  }
+]
